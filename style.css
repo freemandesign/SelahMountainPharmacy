@@ -186,6 +186,8 @@ a:hover, a:active {
     color: #fff !important;
 }
 
+
+
 @media screen and (min-width: 992px) {
     .site-navigation ul {
         position: relative;
@@ -241,7 +243,7 @@ a:hover, a:active {
 }
 
 .hero-content-overlay p {
-    font-size: 14px;
+    font-size: 20px;
     font-weight: 500;
     line-height: 2;
     color: #828282;
@@ -409,7 +411,7 @@ a:hover, a:active {
 
 .accordion-wrap .entry-content p {
     padding: 10px 0;
-    font-size: 14px;
+    font-size: 20px;
     line-height: 2;
     color: #828282;
 }
@@ -566,7 +568,7 @@ ul.tabs-nav .tab-nav.active {
 }
 
 .icon-box .entry-content p {
-    font-size: 14px;
+    font-size: 20px;
     line-height: 2;
     color: #828282;
 }
@@ -826,7 +828,7 @@ ul.tabs-nav .tab-nav.active {
 }
 
 .our-departments-cont .entry-content p {
-    font-size: 14px;
+    font-size: 20px;
     color: #fff;
 }
 
@@ -897,7 +899,7 @@ ul.tabs-nav .tab-nav.active {
 .testimonial-slider .entry-content p {
     position: relative;
     margin-top: 40px;
-    font-size: 16px;
+    font-size: 20px;
     line-height: 2;
     font-style: italic;
     color: #828282;
