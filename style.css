@@ -293,6 +293,15 @@ a:hover, a:active {
         width: 30px;
         margin-left: 15px;
     }
+
+    .hero-content-overlay h1 {
+    font-size: 40px;
+
+}
+
+.site-footer {
+    padding: 0 0 40 0;
+}
 }
 
 /*--------------------------------------------------------------
