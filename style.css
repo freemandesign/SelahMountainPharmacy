@@ -246,7 +246,7 @@ a:hover, a:active {
     font-size: 20px;
     font-weight: 500;
     line-height: 2;
-    color: #828282;
+    color: #333;
 }
 
 .hero-slider .pagination-wrap {
@@ -1509,7 +1509,7 @@ ul.tabs-nav .tab-nav.active {
 .site-footer {
     position: relative;
     padding: 48px 0;
-    background: url("images/footer-bg.png") no-repeat center #fff;
+    background: #f0f4f9;
     background-size: cover;
     font-size: 14px;
     color: #828282;
